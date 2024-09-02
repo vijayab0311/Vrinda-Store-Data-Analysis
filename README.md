@@ -6,6 +6,18 @@ This project is aimed to create a yearly sales report for a hypothetical e-comme
 # Title :- 📈Vrinda Store Annual Report 📊
 
 dashboard in Microsoft Excel using the dataset provided by Rishab Mishra.
+-->Data Cleaning: Ensured the accuracy and consistency of data.
+-->Data Processing: Structured the data to be analysis-ready.
+-->Data Analysis: Extracted valuable insights and created a dynamic dashboard.
+
+📊 Project Highlights:
+-->Order vs Sales Analysis: Tracked monthly sales trends.
+-->Order Status: Visualized delivery and return statistics.
+-->Top Sales States: Identified key market regions.
+-->Sales by Gender: Revealed customer demographics.
+-->Category Insights: Analyzed age and gender preferences.
+-->Order Channels: Assessed sales distribution across platforms.
+-->Interactive Slicer: Added a slicer to easily extract and view specific data segments.
 
 # Requirements of Business :
 * Which channel is contributing to maximum sales?
